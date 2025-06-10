@@ -4,6 +4,7 @@
       padding: 0;
     }
 
+<<<<<<< HEAD
     body {
       font-family: Arial, sans-serif;
     }
@@ -45,3 +46,24 @@
     .nav-links a:hover {
       color: #000;
     }
+=======
+
+.navbar a {
+  float: left;
+  text-align: center;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.navbar a:hover {
+  background-color: #000;
+}
+
+
+.active {
+  background-color: #04AA6D;
+}
+>>>>>>> 8a5b32e56aaf11b33c81976327e228d1a80a70db
