@@ -4,7 +4,7 @@
   overflow: auto;
 }
 
-/* Navbar links */
+
 .navbar a {
   float: left;
   text-align: center;
@@ -14,12 +14,12 @@
   font-size: 17px;
 }
 
-/* Navbar links on mouse-over */
+
 .navbar a:hover {
   background-color: #000;
 }
 
-/* Current/active navbar link */
+
 .active {
   background-color: #04AA6D;
 }
