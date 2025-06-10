@@ -18,7 +18,6 @@
       <a href="#">Diensten</a>
       <a href="#">Contact</a>
     </div>
-    <div class="hamburger" id="hamburger">
       <div></div>
       <div></div>
       <div></div>
