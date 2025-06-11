@@ -18,6 +18,5 @@
       <?php require_once("includes/mainmenu.inc.php"); ?>
   </div>
 </nav>
-
 </body>
 </html>
