@@ -21,20 +21,23 @@
       margin: auto;
       display: flex;
       justify-content: space-between;
-      align-items: center;
-      padding: 1rem 2rem;
+      padding:  2rem;
+      
     }
 
     .logo {
-      	width: auto;
-        height: 80px;
-        display: block;
+      position: absolute;
+      top: -90px;
+      left: 10px;
+      	width: 500px;
+        height: auto;
     
     }
 
     .nav-links {
       display: flex;
-      gap: 1.5rem;
+      gap: 4rem;
+      margin-left: auto;
     }
 
     .nav-links a {
@@ -44,6 +47,7 @@
       padding: 0.5rem 1rem ;
       font-size: 1rem;
       transition: color 0.3s;
+
     }
 
     .nav-links a:hover {
