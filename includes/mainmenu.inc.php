@@ -5,3 +5,7 @@
     <a href="shop.php">Shop</a>
     <a href="menu.php">Menu</a>
 </div>
+
+<button class="custom-button">
+    +31 6 12345678
+</button>

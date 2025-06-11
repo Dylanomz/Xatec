@@ -33,7 +33,7 @@
 
     .nav-links {
     display: flex;
-    margin-left: auto; 
+    margin-left: 530px; 
     gap :4rem
     }
 
@@ -64,4 +64,36 @@
     .nav-links a:hover {
       color: #ee0000f6;
       text-decoration: underline;
+    }
+
+ .custom-button {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      padding: 15px 30px;
+      font-size: 18px;
+      color: white;
+      background-color: #000000; 
+      border: 2px solid red;
+      cursor: pointer;
+      clip-path: polygon(
+        20px 0%,
+        100% 0%,
+        100% calc(100% - 20px),
+        calc(100% - 20px) 100%,
+        0% 100%,
+        0% 20px
+      );
+      transition: background-color 0.3s ease;
+      user-select: none;
+      z-index: 1000; 
+    }
+
+    .custom-button:hover {
+      background-color: red; 
+    }
+
+    .custom-button:focus {
+      outline: none;
+      box-shadow: 0 0 5px 2px rgba(255, 0, 0, 0.7);
     }
