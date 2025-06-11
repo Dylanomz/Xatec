@@ -6,6 +6,7 @@
   <title>Clean Navbar</title>
 
   <link rel="stylesheet" href="furniture/style.css">
+  <script src="/furniture/Index.js"></script>
 </head>
 <body>
 
@@ -15,8 +16,6 @@
       <?php require_once("includes/mainmenu.inc.php"); ?>
   </div>
 </nav>
-
-<H1>SUPER CAR </H1>
 
 </body>
 </html>
