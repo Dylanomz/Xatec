@@ -17,6 +17,10 @@
   </div>
 </nav>
 
+<div class="content">
+    <div class="projects-title">Projects</div>
+  </div>
+
 
 </body>
 </html>

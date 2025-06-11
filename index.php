@@ -6,6 +6,7 @@
   <title>Clean Navbar</title>
 
   <link rel="stylesheet" href="furniture/style.css">
+  <link rel="stylesheet" href="furniture/index.css">
   <script src="/furniture/Index.js"></script>
 </head>
 <body>
