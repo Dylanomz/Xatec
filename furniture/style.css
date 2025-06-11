@@ -5,7 +5,7 @@
     }
 
     body {
-      font-family: Arial, sans-serif;
+      font-family: lucida;
        margin: 0;
       padding: 0;
       background-image: url(../Img/xatec.png); 
@@ -30,6 +30,7 @@
       display: flex;
       justify-content: space-between;
       padding: 2rem;
+    
     }
 
     .logo {
@@ -50,6 +51,7 @@
       text-decoration: none;
       color: #ffffff;
       transition: color 0.3s;
+      font-family: 'bruno ace sc',cursive;
     }
 
     .nav-links a::after {
@@ -81,6 +83,7 @@
       right: 20px;
       padding: 15px 30px;
       font-size: 18px;
+      font-family:'bruno ace sc',cursive ;
       color: white;
       background-color: #000000; 
       border: 2px solid red;
