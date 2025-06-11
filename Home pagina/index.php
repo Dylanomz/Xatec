@@ -11,6 +11,7 @@
 
 <nav>
   <div class="navbar">
+    <div class="logo">
       <img src="../img/xatec_clear.png" alt="logo" class="logo">
     </div>
     <div class="nav-links" id="navLinks">
@@ -19,11 +20,9 @@
       <a href="#">Diensten</a>
       <a href="#">Contact</a>
     </div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
   </div>
 </nav>
+
+
 </body>
 </html>
