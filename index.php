@@ -7,6 +7,7 @@
 
   <link rel="stylesheet" href="furniture/style.css">
   <link rel="stylesheet" href="furniture/index.css">
+  <link href="https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap" rel="stylesheet">
   <script src="/furniture/Index.js"></script>
 </head>
 <body>
