@@ -6,6 +6,7 @@
   <title>Cars</title>
 
   <link rel="stylesheet" href="furniture/style.css">
+  <link rel="stylesheet" href="furniture/projects.css">
 </head>
 <body>
   <nav>
