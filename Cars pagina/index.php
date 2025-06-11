@@ -19,11 +19,12 @@
       <a href="#">Shop</a>
       <a href="#">Menu</a>
     </div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
   </div>
+ <button class="custom-button">
+    +31 6 12345678
+  </button>
+
+</div>
 </nav>
 </body>
 
