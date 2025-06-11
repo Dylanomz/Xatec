@@ -2,10 +2,13 @@
     .content {
       margin-top: 60px; 
       padding: 20px;
+      margin-left: 50px
     }
 
     .projects-title {
       font-size: 60px;
       font-weight: bold;
       color: #ffffff;
+      font-family: 'Bruno Ace SC';
+    
     }
