@@ -3,15 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Clean Navbar</title>
+  <title>Cars</title>
 
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="Style.css">
 </head>
 <body>
 
 <nav>
   <div class="navbar">
-    <div class="logo">Logo</div>
+    <img src="../img/xatec_clear.png" alt="Mijn Logo" class="logo">
     <div class="nav-links" id="navLinks">
       <a href="#">Home</a>
       <a href="#">Over</a>
@@ -25,4 +25,5 @@
   </div>
 </nav>
 </body>
+
 </html>
