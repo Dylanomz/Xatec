@@ -9,7 +9,7 @@
     }
 
     nav {
-      background-color: #cd0e0e;
+      background-color: #000000;
       box-shadow: 0 2px 4px rgba(0,0,0,0.1);
       position: sticky;
       top: 0;
@@ -42,7 +42,7 @@
 
     .nav-links a {
       text-decoration: none;
-      color: #000000;
+      color: #ffffff;
       background-color: #a00;
       padding: 0.5rem 1rem ;
       font-size: 1rem;
