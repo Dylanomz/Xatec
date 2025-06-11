@@ -9,7 +9,7 @@
     }
 
     nav {
-      background-color: #cd0e0e;
+      background-color: #000000;
       box-shadow: 0 2px 4px rgba(0,0,0,0.1);
       position: sticky;
       top: 0;
@@ -39,11 +39,29 @@
 
     .nav-links a {
       text-decoration: none;
-      color: #555;
+      color: #ffffff;
       transition: color 0.3s;
-  
+    }
+
+    .nav-links a::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      height: 5px;
+      width: 100%;
+      background-color: rgb(255, 0, 0);
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform 2s ease;
+      box-shadow: 0 0 20px #ff0000, 0 0 40px #ff0000, 0 0 60px #ff0000;
+    }
+
+    .nav-links a:hover::after {
+      transform: scaleX(1);
     }
 
     .nav-links a:hover {
-      color: #000;
+      color: #ee0000f6;
+      text-decoration: underline;
     }

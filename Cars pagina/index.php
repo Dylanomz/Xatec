@@ -14,9 +14,10 @@
     <img src="../img/xatec_clear.png" alt="Mijn Logo" class="logo">
     <div class="nav-links" id="navLinks">
       <a href="#">Home</a>
-      <a href="#">Over</a>
-      <a href="#">Diensten</a>
-      <a href="#">Contact</a>
+      <a href="#">Projects</a>
+      <a href="#">Services</a>
+      <a href="#">Shop</a>
+      <a href="#">Menu</a>
     </div>
       <div></div>
       <div></div>
