@@ -37,7 +37,7 @@
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
     <img src="img/golf 8rjpg.jpg" style="width:100%">
-    <div class="text"><h2>Golf 8R</h2></div>
+    <div class="text"><H2>Golf 8R</H2></div>
   </div>
 
   
