@@ -20,8 +20,14 @@
 
 <div class="content">
     <div class="projects-title">Projects</div>
-  </div>
+</div>
 
 
+ <div class="video-container" id="hoverVideoContainer">
+    <video id="hoverVideo" muted loop>
+      <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+      Je browser ondersteunt geen video.
+    </video>
+<script src="furniture/Projects.js"></script>
 </body>
 </html>
