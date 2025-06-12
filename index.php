@@ -25,7 +25,7 @@
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
     <img src="img/audi-rs6-1.jpg" style="width:100%">
-    <div class="text">Caption Text</div>
+    <div class="text"><H2>Audi rs6</H2></div>
   </div>
 
   <div class="mySlides fade">
