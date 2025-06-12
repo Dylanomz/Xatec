@@ -30,7 +30,7 @@
           Je browser ondersteunt geen video.
         </video>
         <div class="overlay"></div>
-        <div class="title">Volkswagen Caddy</div>
+        <div class="title">Volkswagen T-roc R</div>
       </div>
 
       <div class="video-container">
@@ -39,12 +39,12 @@
           Je browser ondersteunt geen video.
         </video>
         <div class="overlay"></div>
-        <div class="title">Volkswagen T-roc R</div>
+        <div class="title">Volkswagen Caddy</div>
       </div>
 
       <div class="video-container">
         <video muted loop preload="metadata">
-          <source src="Videos/Jaguar.mp4" type="video/mp4" />
+          <source src="Videos/Jaguarx.mp4" type="video/mp4" />
           Je browser ondersteunt geen video.
         </video>
         <div class="overlay"></div>
