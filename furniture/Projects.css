@@ -13,12 +13,14 @@
       max-width: 1400px;
       margin: 0 auto;
       padding: 40px 20px;
+      background-color: transparent;
     }
 
     .video-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       gap: 24px;
+      background-color: transparent;
     }
 
     .video-container {
@@ -28,13 +30,14 @@
       text-align: center;
       display: flex;
       flex-direction: column;
+      background-color: transparent;
     }
 
     video {
       width: 100%;
       display: block;
       filter: brightness(0.6);
-      transition: filter 0.3s ease;
+
       aspect-ratio: 16/9;
       object-fit: cover;
       height: 500px;
@@ -47,7 +50,7 @@
       left: 0;
       right: 0;
       bottom: 40px; /* boven de titel */
-      background-color: rgba(0, 0, 0, 0.4);
+      background-color: transparent;
       transition: opacity 0.3s ease;
       pointer-events: none;
     }
