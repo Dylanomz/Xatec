@@ -17,7 +17,6 @@
       <?php require_once("includes/mainmenu.inc.php"); ?>
   </div>
 </nav>
-<script src="furniture/index.js"></script>
 
 <div class="slideshow-container">
 
@@ -55,6 +54,6 @@
     </div>
 </div>
 
-
+<script src="furniture/index.js"></script>
 </body>
 </html>
