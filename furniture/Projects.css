@@ -9,4 +9,53 @@
     
     }
 
- 
+ .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    .video-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 24px;
+    }
+
+    .video-container {
+      position: relative;
+      border-radius: 16px;
+      overflow: hidden;
+      background-color: #000;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+    }
+
+    video {
+      width: 100%;
+      display: block;
+      filter: brightness(0.6);
+      transition: filter 0.3s ease;
+      aspect-ratio: 16/9;
+      object-fit: cover;
+    }
+
+    .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 40px; /* boven de titel */
+      background-color: rgba(0, 0, 0, 0.4);
+      transition: opacity 0.3s ease;
+      pointer-events: none;
+    }
+
+    .video-container:hover video {
+      filter: brightness(1);
+    }
+
+    .video-container:hover .overlay {
+      opacity: 0;
+    }
+    
