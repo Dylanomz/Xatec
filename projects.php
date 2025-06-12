@@ -44,7 +44,7 @@
 
       <div class="video-container">
         <video muted loop preload="metadata">
-          <source src="Videos/JaguarXKa.mp4" type="video/mp4" />
+          <source src="Videos/Jaguar.mp4" type="video/mp4" />
           Je browser ondersteunt geen video.
         </video>
         <div class="overlay"></div>
