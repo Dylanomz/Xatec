@@ -24,20 +24,20 @@
 
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="img/audi-rs6-1.jpg" style="width:100%">
-    <div class="text"><H2>Audi rs6</H2></div>
+    <img src="img/ferrari 559 1920-1080.jpg" style="width:100%">
+    <div class="text"><H2>Ferrari 559</H2></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="img/lambo.png" style="width:100%">
+    <img src="img/lambo groen 1920-1080.jpg" style="width:100%">
     <div class="text"><h2>Lamborgini</h2></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="img/golf 8rjpg.jpg" style="width:100%">
-    <div class="text"><H2>Golf 8R</H2></div>
+    <img src="img/bugatti 1920-1080.jpg" style="width:100%">
+    <div class="text"><H2>Bugatti</H2></div>
   </div>
 
   
@@ -46,12 +46,15 @@
 </div>
 <br>
 
+<div class="slideshow-container">
 
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
+    <div style="text-align:center">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+    </div>
 </div>
+
 
 </body>
 </html>
