@@ -30,7 +30,7 @@
           Je browser ondersteunt geen video.
         </video>
         <div class="overlay"></div>
-        <div class="title">Volkswagen Caddy</div>
+        <div class="title">Volkswagen T-roc R</div>
       </div>
 
       <div class="video-container">
@@ -39,7 +39,7 @@
           Je browser ondersteunt geen video.
         </video>
         <div class="overlay"></div>
-        <div class="title">Volkswagen T-roc R</div>
+        <div class="title">Volkswagen Caddy</div>
       </div>
 
       <div class="video-container">
