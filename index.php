@@ -30,14 +30,14 @@
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="img2.jpg" style="width:100%">
-    <div class="text">Caption Two</div>
+    <img src="img/lambo.png" style="width:100%">
+    <div class="text"><h2>Lamborgini</h2></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="img3.jpg" style="width:100%">
-    <div class="text">Caption Three</div>
+    <img src="img/golf 8rjpg.jpg" style="width:100%">
+    <div class="text"><h2>Golf 8R</h2></div>
   </div>
 
   
