@@ -29,19 +29,19 @@
 
     <div class="mySlides fade">
       <div class="numbertext">1 / 3</div>
-      <img src="img/ferrari 559 1920-1080.jpg" style="width:120%">
+      <img class="foto" src="img/ferrari 559 1920-1080.jpg">
       <div class="text"><H2>Ferrari 559</H2></div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext">2 / 3</div>
-      <img src="img/lambo groen 1920-1080.jpg" style="width:120%">
+      <img class="foto" src="img/lambo groen 1920-1080.jpg">
       <div class="text"><h2>Lamborgini</h2></div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext">3 / 3</div>
-      <img src="img/bugatti 1920-1080.jpg" style="width:120%">
+      <img class="foto" src="img/bugatti 1920-1080.jpg">
       <div class="text"><H2>Bugatti</H2></div>
     </div>
 

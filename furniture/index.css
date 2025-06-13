@@ -5,6 +5,7 @@
   max-width: 1000px;
   position: relative;
   margin: auto;
+  background-color: red ;
 }
 
 .page-wrapper{
@@ -19,6 +20,12 @@
 
 .mySlides {
   display: none;
+  background: yellow;
+
+}
+
+.foto{
+  width: 100%;
 }
 
 
@@ -39,16 +46,18 @@
 
 
 .next {
-  right: 40px;
+  right: 400px;
   border-radius: 3px 0 0 3px;
   position:relative;
-  left: 440px;
-  top: -130px;
+  top: -150px;
+  background: purple;
 }
 
 .text{
-  top: 230px;
-  left: 40x;
+  top: 270px;
+  left: 50x;
+  position: relative;
+  
 }
 
 .prev:hover, .next:hover {
