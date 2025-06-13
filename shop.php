@@ -1,3 +1,7 @@
+<?php
+  $thisPage = "shop";
+?>
+
 <!DOCTYPE html>
 <html lang="nl">
 <head>

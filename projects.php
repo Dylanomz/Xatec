@@ -1,3 +1,7 @@
+<?php
+  $thisPage = "projects";
+?>
+
 <!DOCTYPE html>
 <html lang="nl">
 <head>

@@ -1,9 +1,65 @@
+
+
 <div class="nav-links" id="navLinks">
-    <a href="index.php">Home</a>
-    <a href="projects.php">Projects</a>
-    <a href="services.php">Services</a>
-    <a href="shop.php">Shop</a>
-    <a href="menu.php">Menu</a>
+
+    <?php 
+
+        if($thisPage == "index") {
+            $class = "activeMenu";
+        } else {
+            $class = "";
+        }
+    ?>
+    <a href="index.php" class="<?php print $class; ?>">Home</a>
+
+
+    <?php 
+
+        if($thisPage == "projects") {
+            $class = "activeMenu";
+        } else {
+            $class = "";
+        }
+    ?>
+    <a href="projects.php" class="<?php print $class; ?>">Projects</a>
+
+
+    <?php 
+
+        if($thisPage == "services") {
+            $class = "activeMenu";
+        } else {
+            $class = "";
+        }
+    ?>
+
+    <a href="services.php" class="<?php print $class; ?>">Services</a>
+
+
+
+    <?php 
+
+        if($thisPage == "shop") {
+            $class = "activeMenu";
+        } else {
+            $class = "";
+        }
+    ?>
+    
+    <a href="shop.php" class="<?php print $class; ?>">Shop</a>
+
+
+
+    <?php 
+
+        if($thisPage == "menu") {
+            $class = "activeMenu";
+        } else {
+            $class = "";
+        }
+    ?>
+
+    <a href="menu.php" class="<?php print $class; ?>">Menu</a>
 </div>
 
 <button class="custom-button">

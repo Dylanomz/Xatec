@@ -41,6 +41,14 @@
 .next {
   right: 40px;
   border-radius: 3px 0 0 3px;
+  position:relative;
+  left: 440px;
+  top: -130px;
+}
+
+.text{
+  top: 230px;
+  left: 40x;
 }
 
 .prev:hover, .next:hover {

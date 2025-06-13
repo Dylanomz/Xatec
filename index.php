@@ -1,3 +1,7 @@
+<?php
+  $thisPage = "index";
+?>
+
 <!DOCTYPE html>
 <html lang="nl">
 <head>
@@ -48,7 +52,6 @@
 </div>
   <br>
 
-<div class="slideshow-container">
 
 <script src="furniture/index.js"></script>
 </body>

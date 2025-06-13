@@ -1,3 +1,7 @@
+<?php
+  $thisPage = "menu";
+?>
+
 <!DOCTYPE html>
 <html lang="nl">
 <head>
