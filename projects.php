@@ -85,6 +85,18 @@
     </div>
   </div>
 
+  <footer>
+    <p>&copy; 2024 Your Company. All rights reserved.</p>
+    <nav>
+      <a href="#">Privacy Policy</a> |
+      <a href="#">Terms of Service</a>
+    </nav>
+  </footer>
+</body>
+</html>
+
+
 <script src="furniture/Projects.js"></script>
 </body>
+
 </html>

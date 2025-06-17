@@ -10,11 +10,12 @@
       padding: 0;
       background-image: url(../Img/xatec.png); 
       background-size: cover;     
-      background-position: center; 
+      background-position: center;
+      background-attachment: fixed; 
       height: 100vh;              
       font-family: Arial, sans-serif;
       color: white;
-      position: sticky;
+      
     }
 
     .activeMenu {
