@@ -118,12 +118,15 @@
     }
 
 .footer {
+  position: relative;
   background-color: #111118;
   color: #ccc;
   padding: 60px 20px;
-  font-family: 'Helvetica Neue', sans-serif;
   border-radius: 10px 10px 0 0;
 }
+
+
+
 
 .footer-container {
   display: flex;

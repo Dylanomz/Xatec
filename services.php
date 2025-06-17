@@ -45,13 +45,13 @@
       </ul>
     </div>
     <div class="footer-column">
-      <h4>Online Shop</h4>
+      <h4>Xatec</h4>
       <ul>
-        <li><a href="#">Car Tuning</a></li>
-        <li><a href="#">Projects</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Menu</a></li>
-        <li><a href="#">Shop</a></li>
+     <li><a href="index.php">Car Tuning</a></li>
+        <li><a href="projects.php">Projects</a></li>
+        <li><a href="Services.php">Services</a></li>
+        <li><a href="menu.php">Menu</a></li>
+         <li><a href="shop.php">Shop</a></li>
       </ul>
     </div>
     <div class="footer-column">
