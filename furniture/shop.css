@@ -8,6 +8,7 @@
   width: 30%;
   padding-left: 175px;
   justify-content: center;
+  font-family: 'bruno ace sc';
 
 }
 
@@ -55,6 +56,7 @@
   text-align: center;
   text-decoration: none;
   font-size: 18px;
+  font-family: 'bruno ace sc';
 }
 
 @media only screen and (max-width: 600px) {
