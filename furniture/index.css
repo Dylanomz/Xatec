@@ -1,28 +1,40 @@
-* {box-sizing:border-box}
+* {
+  box-sizing: border-box;
+}
 
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.page-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100vh; 
+  padding-right: 60%;
+  
+}
 
 .slideshow-container {
-  max-width: 1000px;
   position: relative;
   margin: auto;
+  overflow: hidden;
+  border-radius: 10px;
+  width: 50rem;
+  left: 70px;
 }
 
-.page-wrapper{
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    height: 100%vh;
-    padding: 12.5%;
-    padding-right: 60%;
-    
-}
 
 .mySlides {
   display: none;
+  position: relative;
 }
 
-.foto{
+.foto {
   width: 100%;
+  display: block;
+  border-radius: 10px;
 }
 
 
@@ -30,30 +42,24 @@
   cursor: pointer;
   position: absolute;
   top: 50%;
-  width: auto;
-  margin-top: -22px;
   padding: 16px;
   color: white;
   font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
+  font-size: 24px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 3px;
   user-select: none;
+  transform: translateY(-50%);
+  transition: background-color 0.3s ease;
+  z-index: 10;
 }
 
+.prev {
+  left: 10px;
+}
 
 .next {
-  right: 400px;
-  border-radius: 3px 0 0 3px;
-  position:relative;
-  top: 15px;
-}
-
-.text{
-  top: 270px;
-  left: 50x;
-  position: relative;
-  
+  right: 10px;
 }
 
 .prev:hover, .next:hover {
@@ -63,14 +69,16 @@
 
 .text {
   color: #f2f2f2;
-  font-size: 15px;
+  font-size: 16px;
   padding: 8px 12px;
   position: absolute;
-  bottom: 8px;
+  bottom: 12px;
   width: 100%;
   text-align: center;
+  background: rgba(0, 0, 0, 0.4);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
-
 
 .numbertext {
   color: #f2f2f2;
@@ -85,13 +93,11 @@
   cursor: pointer;
   height: 15px;
   width: 15px;
-  margin: 0 2px;
+  margin: 0 4px;
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
   transition: background-color 0.6s ease;
-  padding-bottom: 40%;
-
 }
 
 .active, .dot:hover {
@@ -105,6 +111,12 @@
 }
 
 @keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
+  from { opacity: 0.4 }
+  to { opacity: 1 }
+}
+
+/* Optioneel: centreren dots onder de slider */
+.dots-wrapper {
+  text-align: center;
+  margin-top: 10px;
 }
