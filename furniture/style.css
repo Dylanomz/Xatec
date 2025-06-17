@@ -117,7 +117,6 @@
       box-shadow: 0 0 5px 2px rgba(255, 0, 0, 0.7);
     }
 
-    /* Algemene styling */
 .footer {
   background-color: #111118;
   color: #ccc;
@@ -176,7 +175,6 @@
   color: #fff;
 }
 
-/* Social icons */
 .social-links a {
   display: inline-block;
   height: 40px;
@@ -195,7 +193,7 @@
   background-color: #e91e63;
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
   .footer-container {
     flex-direction: column;
