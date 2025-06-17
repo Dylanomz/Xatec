@@ -12,7 +12,7 @@ body {
   justify-content: flex-start;
   align-items: center;
   height: 100vh; 
-  padding-right: 60%;
+  padding-right: 50%;
   
 }
 
@@ -22,7 +22,7 @@ body {
   overflow: hidden;
   border-radius: 10px;
   width: 50rem;
-  left: 70px;
+  left: 30px;
 }
 
 
@@ -123,9 +123,10 @@ body {
       right: 70px;          /* helemaal rechts */
       transform: translateY(-50%); /* verticale centrering */
       width: 700px;
-      padding: 40px;
+      padding: 31px;
       background-color: rgb(0, 0, 0);
       border: 2px solid #9f1616;
       border-radius: 10px 0 0 10px; /* ronde linker hoeken */
       box-shadow: -10px 10px 40px rgb(143, 15, 15);
+      font-family: 'bruno ace sc';
     }
