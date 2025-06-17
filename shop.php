@@ -33,7 +33,7 @@
   <div class="columns">
     <ul class="price">
       <li class="header">Basic</li>
-      <li class="grey">€50,- / year</li>
+      <li class="grey">€50,- / month</li>
       <li>WA</li>
       <li>Greene cart</li>
       <li>Liability coverage</li>
@@ -45,10 +45,10 @@
    <div class="columns">
     <ul class="price">
       <li class="header">Pro</li>
-      <li class="grey">€75,- / year</li>
+      <li class="grey">€75,- / month</li>
       <li>WA+</li>
-      <li>Claims handling</li>
-      <li>Repair in case of damage due to weather conditions or theft</li>
+      <li>Limited Hull</li>
+      <li>Repair damage due to weather</li>
       <li>window repair without deductible</li>
       <li class="grey"><a href="#" class="button">Buy</a></li>
     </ul>
@@ -57,11 +57,11 @@
   <div class="columns">
     <ul class="price">
       <li class="header">Premium</li>
-      <li class="grey">€150,- / year</li>
+      <li class="grey">€150,- / month</li>
       <li>All risk</li>
-      <li>10 Emails</li>
-      <li>10 Domains</li>
-      <li>1GB Bandwidth</li>
+      <li>Fully Comprehensive</li>
+      <li>new or young car</li>
+      <li>depending on your car</li>
       <li class="grey"><a href="#" class="button">Buy</a></li>
     </ul>
   </div>
