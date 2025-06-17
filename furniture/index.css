@@ -5,7 +5,6 @@
   max-width: 1000px;
   position: relative;
   margin: auto;
-  background-color: red ;
 }
 
 .page-wrapper{
@@ -20,8 +19,6 @@
 
 .mySlides {
   display: none;
-  background: yellow;
-
 }
 
 .foto{
