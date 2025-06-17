@@ -127,6 +127,6 @@
   </div>
 </footer>
 
-    
+    <script src="furniture/index.js"></script>
 </body>
 </html>
