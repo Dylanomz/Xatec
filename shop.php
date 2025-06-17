@@ -46,10 +46,11 @@
     <div class="footer-column">
       <h4>Online Shop</h4>
       <ul>
-        <li><a href="#">Watch</a></li>
-        <li><a href="#">Bag</a></li>
-        <li><a href="#">Shoes</a></li>
-        <li><a href="#">Dress</a></li>
+        <li><a href="#">Car Tuning</a></li>
+        <li><a href="#">Projects</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Menu</a></li>
+        <li><a href="#">Shop</a></li>
       </ul>
     </div>
     <div class="footer-column">
