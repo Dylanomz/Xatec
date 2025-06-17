@@ -22,6 +22,9 @@
   </div>
 </nav>
 
+
+
+
 <div class="page-wrapper">
 
   <div class="slideshow-container">
@@ -51,6 +54,34 @@
   </div>
 </div>
   <br>
+
+  <div id="admin-container">
+    <h3></h3>
+    <div id="admin-text">
+      Performance Tuning: 
+        <br>
+        <br>
+This focuses on increasing engine power, improving acceleration, and enhancing handling. Common modifications include: 
+<br>
+<br>
+Engine Remapping (ECU Tuning):
+<br>
+Modifying the Engine Control Unit (ECU) software to optimize fuel delivery, ignition timing, and other parameters for more power and efficiency. 
+<br>
+<br>
+Air Intake and Exhaust Upgrades: 
+<br>
+Replacing restrictive factory components with high-flow air filters and exhaust systems can improve engine breathing and power output. 
+<br>
+<br>
+Suspension Upgrades: 
+<br> 
+Modifying the suspension with stiffer springs, shocks, or sway bars can improve handling and reduce body roll, resulting in better grip and cornering. 
+      
+    </div>
+  </div>
+
+   
 
   
   <footer class="footer">
