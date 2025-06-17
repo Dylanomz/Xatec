@@ -10,6 +10,7 @@
   <title>Shop</title>
 
   <link rel="stylesheet" href="furniture/style.css">
+  <link rel="stylesheet" href="furniture/shop.css">
    <link href="https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -20,6 +21,87 @@
    <?php require_once("includes/mainmenu.inc.php"); ?>
   </div>
 </nav>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+  <div class="columns">
+    <ul class="price">
+      <li class="header">Basic</li>
+      <li class="grey">€50,- / year</li>
+      <li>10GB Storage</li>
+      <li>10 Emails</li>
+      <li>10 Domains</li>
+      <li>1GB Bandwidth</li>
+      <li class="grey"><a href="#" class="button">Sign Up</a></li>
+    </ul>
+  </div>
+
+   <div class="columns">
+    <ul class="price">
+      <li class="header">Pro</li>
+      <li class="grey">€75,- / year</li>
+      <li>10GB Storage</li>
+      <li>10 Emails</li>
+      <li>10 Domains</li>
+      <li>1GB Bandwidth</li>
+      <li class="grey"><a href="#" class="button">Sign Up</a></li>
+    </ul>
+  </div>
+
+  <div class="columns">
+    <ul class="price">
+      <li class="header">Premium</li>
+      <li class="grey">€150,- / year</li>
+      <li>10GB Storage</li>
+      <li>10 Emails</li>
+      <li>10 Domains</li>
+      <li>1GB Bandwidth</li>
+      <li class="grey"><a href="#" class="button">Sign Up</a></li>
+    </ul>
+  </div>
+
+
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 
 
   <footer class="footer">
