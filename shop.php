@@ -47,9 +47,9 @@
       <li class="header">Pro</li>
       <li class="grey">€75,- / year</li>
       <li>WA+</li>
-      <li>10 Emails</li>
-      <li>10 Domains</li>
-      <li>1GB Bandwidth</li>
+      <li>Claims handling</li>
+      <li>Repair in case of damage due to weather conditions or theft</li>
+      <li>window repair without deductible</li>
       <li class="grey"><a href="#" class="button">Buy</a></li>
     </ul>
   </div>
