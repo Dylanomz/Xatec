@@ -73,13 +73,7 @@
         <div class="title">Volkswagen Caddy</div>
       </div>
 
-      <div class="video-container">
-        <video muted loop preload="metadata">
-          <source src="Videos/Jaguarx.mp4" type="video/mp4" />
-          Je browser ondersteunt geen video.
-        </video>
-        <div class="overlay"></div>
-        <div class="title">Jaguar XK</div>
+   
 </div>
 
     </div>
