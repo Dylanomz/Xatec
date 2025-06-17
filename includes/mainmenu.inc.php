@@ -46,7 +46,7 @@
         }
     ?>
     
-    <a href="shop.php" class="<?php print $class; ?>">Shop</a>
+    <a href="shop.php" class="<?php print $class; ?>">Insurance</a>
 
 
 

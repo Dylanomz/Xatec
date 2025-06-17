@@ -20,7 +20,7 @@
 
     .activeMenu {
       font-size: 180%;
-      color: red !important;
+      color: red !important;;
     }
 
     nav {
@@ -58,6 +58,7 @@
       color: #ffffff;
       transition: color 0.3s;
       font-family: 'bruno ace sc',cursive;
+      
     }
 
     .nav-links a::after {

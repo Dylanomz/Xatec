@@ -117,7 +117,7 @@
         <li><a href="projects.php">Projects</a></li>
         <li><a href="Services.php">Services</a></li>
         <li><a href="menu.php">Menu</a></li>
-         <li><a href="shop.php">Shop</a></li>
+         <li><a href="shop.php">Insurance</a></li>
       </ul>
     </div>
     <div class="footer-column">
