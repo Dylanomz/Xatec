@@ -34,7 +34,7 @@
     <ul class="price">
       <li class="header">Basic</li>
       <li class="grey">€50,- / year</li>
-      <li>10GB Storage</li>
+      <li>WA</li>
       <li>10 Emails</li>
       <li>10 Domains</li>
       <li>1GB Bandwidth</li>
@@ -46,7 +46,7 @@
     <ul class="price">
       <li class="header">Pro</li>
       <li class="grey">€75,- / year</li>
-      <li>10GB Storage</li>
+      <li>WA+</li>
       <li>10 Emails</li>
       <li>10 Domains</li>
       <li>1GB Bandwidth</li>
