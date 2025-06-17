@@ -35,10 +35,10 @@
       <li class="header">Basic</li>
       <li class="grey">€50,- / year</li>
       <li>WA</li>
-      <li>10 Emails</li>
-      <li>10 Domains</li>
-      <li>1GB Bandwidth</li>
-      <li class="grey"><a href="#" class="button">Sign Up</a></li>
+      <li>Greene cart</li>
+      <li>Liability coverage</li>
+      <li>Car older than 10 years</li>
+      <li class="grey"><a href="#" class="button">Buy</a></li>
     </ul>
   </div>
 
@@ -50,7 +50,7 @@
       <li>10 Emails</li>
       <li>10 Domains</li>
       <li>1GB Bandwidth</li>
-      <li class="grey"><a href="#" class="button">Sign Up</a></li>
+      <li class="grey"><a href="#" class="button">Buy</a></li>
     </ul>
   </div>
 
@@ -58,11 +58,11 @@
     <ul class="price">
       <li class="header">Premium</li>
       <li class="grey">€150,- / year</li>
-      <li>10GB Storage</li>
+      <li>All risk</li>
       <li>10 Emails</li>
       <li>10 Domains</li>
       <li>1GB Bandwidth</li>
-      <li class="grey"><a href="#" class="button">Sign Up</a></li>
+      <li class="grey"><a href="#" class="button">Buy</a></li>
     </ul>
   </div>
 

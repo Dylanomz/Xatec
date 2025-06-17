@@ -5,8 +5,10 @@
 
 .columns {
   float: left;
-  width: 33.3%;
-  padding: 8px;
+  width: 30%;
+  padding-left: 175px;
+  justify-content: center;
+
 }
 
 
@@ -46,7 +48,7 @@
 
 
 .button {
-  background-color: #04AA6D;
+  background-color: #8a0909;
   border: none;
   color: white;
   padding: 10px 25px;
@@ -60,3 +62,4 @@
     width: 100%;
   }
 }
+
