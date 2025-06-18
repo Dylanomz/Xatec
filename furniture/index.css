@@ -23,6 +23,7 @@ body {
   border-radius: 10px;
   width: 50rem;
   left: 30px;
+  bottom: 175px;
 }
 
 
@@ -53,6 +54,21 @@ body {
   transition: background-color 0.3s ease;
   z-index: 10;
 }
+
+
+.page-title {
+      margin-top: 0px; /* ruimte onder de navbar */
+      display: flex;
+      justify-content: flex-end; /* titel naar rechts */
+      padding: 0 500px;
+      padding-top: 120px;
+      font-family: 'bruno ace sc';
+    }
+
+    .page-title h1 {
+      font-size: 40px;
+      margin: 0;
+    }
 
 .prev {
   left: 10px;
@@ -119,7 +135,7 @@ body {
 
 #admin-container {
       position: absolute; /* blijft op dezelfde plek als je scrollt */
-      top: 62%;          /* verticale midden */
+      top: 61%; /* verticale midden */
       right: 70px;          /* helemaal rechts */
       transform: translateY(-50%); /* verticale centrering */
       width: 700px;
@@ -130,3 +146,9 @@ body {
       box-shadow: -10px 10px 40px rgb(143, 15, 15);
       font-family: 'bruno ace sc';
     }
+
+ 
+    
+      
+    
+    

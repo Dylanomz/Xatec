@@ -22,8 +22,9 @@
   </div>
 </nav>
 
-
-
+<div class="page-title">
+    <h1>Car Tuning</h1>
+  </div>
 
 <div class="page-wrapper">
 
@@ -54,9 +55,10 @@
   </div>
 </div>
   <br>
+  
+  
 
   <div id="admin-container">
-    <h3></h3>
     <div id="admin-text">
       Performance Tuning: 
         <br>
