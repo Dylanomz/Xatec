@@ -25,84 +25,87 @@
 </nav>
 
 <div class="container">
-    <h1>Onze Diensten</h1>
-    <p>Welkom bij AutoService Nederland. Wij bieden een breed scala aan professionele autodiensten voor zowel particulieren als zakelijke klanten. Of u nu komt voor een kleine onderhoudsbeurt of een volledige motorrevisie, bij ons bent u aan het juiste adres. Uw veiligheid en rijplezier staan bij ons altijd op nummer één.</p>
+    <h1>Our Services</h1>
+    <p>Welcome to AutoService Nederland. We offer a wide range of professional car services for both private and business customers.
+    Whether you come for a minor maintenance service or a complete engine overhaul,
+    you have come to the right place. Your safety and driving pleasure are always our number one priority.</p>
 
     <div class="section">
-      <h2>Periodiek Onderhoud</h2>
-      <p>Regelmatig onderhoud voorkomt grote reparaties en verlengt de levensduur van uw auto. Wij bieden:</p>
+      <h2>Periodic Maintenance</h2>
+      <p>Regular maintenance prevents major repairs and extends the life of your car. We offer:</p>
       <ul>
-        <li>Kleine en grote onderhoudsbeurten</li>
-        <li>Vervanging van olie, filters, bougies en remvloeistof</li>
-        <li>Software-updates voor moderne voertuigen</li>
-        <li>Volledig digitaal onderhoudsrapport</li>
+        <li>Minor and major maintenance</li>
+        <li>Replacement of oil, filters, spark plugs and brake fluid</li>
+        <li>Software updates for modern vehicles</li>
+        <li>Fully digital maintenance report</li>
       </ul>
     </div>
 
     <div class="section">
-      <h2>Reparaties</h2>
-      <p>Heeft uw auto een probleem of is er schade ontstaan? Wij zorgen voor een snelle en betrouwbare oplossing:</p>
+      <h2>Repairs</h2>
+      <p>Does your car have a problem or has damage occurred? We provide a fast and reliable solution:</p>
       <ul>
-        <li>Motor- en transmissiereparaties</li>
-        <li>Remsystemen en ophanging</li>
-        <li>Elektrische systemen en storingsdiagnose</li>
-        <li>Uitlaatsystemen en roetfilters</li>
+        <li>Engine and transmission repairs</li>
+        <li>Brake systems and suspension</li>
+        <li>Electrical systems and fault diagnosis</li>
+        <li>Exhaust systems and particulate filters</li>
       </ul>
     </div>
 
     <div class="section">
-      <h2>Bandenservice</h2>
-      <p>Uw banden zijn het enige contactpunt met de weg. Daarom is goede bandenservice essentieel:</p>
+      <h2>Tire service</h2>
+      <p>Your tires are the only point of contact with the road, so good tire service is essential:</p>
       <ul>
-        <li>Nieuwe banden van topmerken</li>
-        <li>Banden wisselen (zomer/winter)</li>
-        <li>Banden balanceren en uitlijnen</li>
-        <li>Controle op profieldiepte en slijtage</li>
+        <li>New tires from top brands</li>
+        <li>Changing tires (summer/winter)</li>
+        <li>Tire balancing and alignment</li>
+        <li>Check for tread depth and wear</li>
       </ul>
     </div>
 
     <div class="section">
-      <h2>Airco Service</h2>
-      <p>Voor een frisse en comfortabele rit is goed werkende airconditioning onmisbaar:</p>
+      <h2>Air Conditioning Service</h2>
+      <p>For a fresh and comfortable ride, properly functioning air conditioning is essential:</p>
       <ul>
-        <li>Controle op werking en koelmiddel</li>
-        <li>Airco bijvullen en reinigen</li>
-        <li>Leckagetest en compressorreparatie</li>
+        <li>Check operation and coolant</li>
+        <li>Refill and clean air conditioning</li>
+        <li>Leakage test and compressor repair</li>
       </ul>
     </div>
 
     <div class="section">
-      <h2>APK-keuring</h2>
-      <p>Laat uw auto bij ons keuren volgens de RDW-richtlijnen. Wij bieden een volledige APK-inspectie met eerlijk advies:</p>
+      <h2>MOT inspection</h2>
+      <p>Have your car inspected by us according to RDW guidelines. We offer a full MOT inspection with honest advice:</p>
       <ul>
-        <li>Snelle en betrouwbare keuring</li>
-        <li>Gratis herkeuring bij reparatie door ons</li>
-        <li>Directe doorloop naar onderhoud indien nodig</li>
+        <li>Fast and reliable inspection</li>
+        <li>Free re-inspection when repaired by us</li>
+        <li>Direct access to maintenance if necessary</li>
       </ul>
     </div>
 
     <div class="section">
-      <h2>Diagnose & Tuning</h2>
-      <p>Moderne auto's zitten vol elektronica. Met onze geavanceerde apparatuur kunnen wij elk probleem opsporen en oplossen:</p>
+      <h2>Diagnosis & Tuning</h2>
+      <p>Modern cars are full of electronics. With our advanced equipment we can detect and solve any problem:</p>
       <ul>
-        <li>Uitgebreide foutdiagnose (OBD, CAN-bus)</li>
+        <li>Extended fault diagnosis (OBD, CAN bus)</li>
         <li>Motormanagementoptimalisatie</li>
-        <li>Chiptuning voor betere prestaties en zuiniger verbruik</li>
+        <li>Chip tuning for better performance and more economical consumption</li>
       </ul>
     </div>
 
     <div class="section">
-      <h2>Zakelijke Service & Vloten</h2>
-      <p>Voor bedrijven met meerdere voertuigen bieden wij op maat gemaakte oplossingen:</p>
+      <h2>Business Services & Fleets</h2>
+      <p>For companies with multiple vehicles we offer tailor-made solutions:</p>
       <ul>
-        <li>Periodiek vlootonderhoud</li>
-        <li>Spoedreparaties en haal- & brengservice</li>
-        <li>Transparante rapportages en facturatie</li>
+        <li>Periodic fleet maintenance</li>
+        <li>Emergency repairs and pick-up & delivery service</li>
+        <li>Transparent reporting and invoicing</li>
       </ul>
     </div>
 
     <div class="cta">
-      <p>Klaar voor vakkundige service? <a href="menu.php">Neem direct contact met ons op</a> of <a href="/afspraak">maak online een afspraak</a> voor onderhoud of reparatie. Wij staan voor u klaar!</p>
+      <p>Ready for professional service? <a href="menu.php">Contact us directly</a> of <a href="/afspraak">make an appointment online</a> 
+      for maintenance or repair. We are here for you!</p>
     </div>
   </div>
 
