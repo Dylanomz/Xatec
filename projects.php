@@ -25,7 +25,6 @@
 <div class="content">
     <div class="projects-title">Projects</div>
 </div>
-
 <div class="container">
     <div class="video-grid">
       <div class="video-container">
@@ -66,21 +65,24 @@
 
       <div class="video-container">
         <video muted loop preload="metadata">
-          <source src="Videos/VolkswagenCade.mp4" type="video/mp4" />
+          <source src="Videos/VolkswagenCaddy.mp4" type="video/mp4" />
           Je browser ondersteunt geen video.
         </video>
         <div class="overlay"></div>
-        <div class="title">Volkswagen Caddy</div>
+        <div class="title">Volkswagen T-roc R</div>
       </div>
 
-        <div class="video-container">
+      <div class="video-container">
         <video muted loop preload="metadata">
-          <source src="Videos/VolkswagenCade.mp4" type="video/mp4" />
+          <source src="Videos/VolkswagenCaddy.mp4" type="video/mp4" />
           Je browser ondersteunt geen video.
         </video>
         <div class="overlay"></div>
-        <div class="title">Volkswagen Caddy</div>
+        <div class="title">Volkswagen T-roc R</div>
       </div>
+
+      
+   
 
    
 </div>
