@@ -6,6 +6,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="furniture/style.css">
     <link rel="stylesheet" href="furniture/checkout.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap" rel="stylesheet">
   </head>
 <body>
 
