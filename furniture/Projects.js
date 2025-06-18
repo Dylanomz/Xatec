@@ -10,6 +10,7 @@
     video.pause();
     video.currentTime = 0; // Reset naar begin
   });
+  
 
 
 

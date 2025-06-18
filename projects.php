@@ -80,16 +80,10 @@
         <div class="overlay"></div>
         <div class="title">Volkswagen T-roc R</div>
       </div>
-
-      
-   
-
-   
-</div>
-
     </div>
   </div>
 
+  <script src="furniture/projects.js"></script>
   
   <footer class="footer">
   <div class="footer-container">
@@ -125,7 +119,7 @@
     <div class="footer-column">
       <h4>Follow Us</h4>
       <div class="social-links">
-        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href=""><i class="fab fa-facebook-f"></i></a>
         <a href="#"><i class="fab fa-twitter"></i></a>
         <a href="#"><i class="fab fa-instagram"></i></a>
         <a href="#"><i class="fab fa-linkedin-in"></i></a>
@@ -133,7 +127,6 @@
     </div>
   </div>
 </footer>
-<script src="furniture/Projects.js"></script>
 </body>
 
 </html>
