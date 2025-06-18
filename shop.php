@@ -38,7 +38,7 @@
       <li>Greene cart</li>
       <li>Liability coverage</li>
       <li>Car older than 10 years</li>
-      <li class="grey"><a href="#" class="button">Buy</a></li>
+      <li class="grey"><a href="Checkout.php" class="button">Buy</a></li>
     </ul>
   </div>
 
@@ -50,7 +50,7 @@
       <li>Limited Hull</li>
       <li>Repair damage due to weather</li>
       <li>window repair without deductible</li>
-      <li class="grey"><a href="#" class="button">Buy</a></li>
+      <li class="grey"><a href="Checkout.php" class="button">Buy</a></li>
     </ul>
   </div>
 
@@ -62,7 +62,7 @@
       <li>Fully Comprehensive</li>
       <li>new or young car</li>
       <li>depending on your car</li>
-      <li class="grey"><a href="#" class="button">Buy</a></li>
+      <li class="grey"><a href="Checkout.php" class="button">Buy</a></li>
     </ul>
   </div>
 
