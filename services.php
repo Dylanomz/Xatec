@@ -22,6 +22,7 @@
   </div>
 </nav>
 
+<br>
 
   <footer class="footer">
   <div class="footer-container">
