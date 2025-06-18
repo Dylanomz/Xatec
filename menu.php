@@ -49,19 +49,19 @@
     <form id="contactForm" method="post" action="#">
       <h2>Send a message</h2>
       <label for="naam">Name *</label>
-      <input type="text" id="naam" name="naam" required placeholder="Uw naam" />
+      <input type="text" id="naam" name="naam" required placeholder="Name" />
 
       <label for="email">E-mail *</label>
-      <input type="email" id="email" name="email" required placeholder="voorbeeld@mail.com" />
+      <input type="email" id="email" name="email" required placeholder="Example@mail.com" />
 
       <label for="telefoon">Phone number</label>
       <input type="tel" id="telefoon" name="telefoon" placeholder="+31 6 12345678" />
 
       <label for="onderwerp">subject *</label>
-      <input type="text" id="onderwerp" name="onderwerp" required placeholder="Waar gaat uw bericht over?" />
+      <input type="text" id="onderwerp" name="onderwerp" required placeholder="What is the subject?" />
 
       <label for="bericht">Message *</label>
-      <textarea id="bericht" name="bericht" required placeholder="Schrijf hier uw vraag of bericht"></textarea>
+      <textarea id="bericht" name="bericht" required placeholder="You're question?"></textarea>
 
       <button type="submit">Send message</button>
     </form>
@@ -75,23 +75,23 @@
       </div>
 
       <div class="faq">
-        <strong>2. Welke merken en modellen werken jullie mee?</strong>
-        <p>Wij werken met alle merken en modellen auto's, zowel jong als oud. Onze monteurs zijn breed opgeleid en beschikken over de nieuwste apparatuur.</p>
+        <strong>2.Which brands and models do you work with?</strong>
+        <p>We work with all makes and models of cars, both young and old. Our mechanics are broadly trained and have the latest equipment.</p>
       </div>
 
       <div class="faq">
-        <strong>3. Hoe lang duurt een onderhoudsbeurt?</strong>
-        <p>Een kleine onderhoudsbeurt duurt meestal 1 tot 2 uur. Voor een grote onderhoudsbeurt of reparatie kan het langer duren. Wij informeren u altijd vooraf over de verwachte duur.</p>
+        <strong>3. How long does a maintenance service take?</strong>
+        <p>A minor maintenance service usually takes 1 to 2 hours. For a major maintenance service or repair it may take longer. We always inform you in advance about the expected duration.</p>
       </div>
 
       <div class="faq">
-        <strong>4. Kan ik een leenauto krijgen tijdens reparatie?</strong>
-        <p>Ja, wij hebben een beperkt aantal leenauto's beschikbaar. Informeer bij het maken van uw afspraak naar de mogelijkheden.</p>
+        <strong>4.Can I get a loaner car during repairs?</strong>
+        <p>Yes, we have a limited number of rental cars available. Please inquire about the possibilities when making your appointment.</p>
       </div>
 
       <div class="faq">
-        <strong>5. Wat zijn de betaalmogelijkheden?</strong>
-        <p>U kunt bij ons betalen met pin, creditcard, of contant. Voor zakelijke klanten is betaling op factuur mogelijk na overleg.</p>
+        <strong>5. What are the payment options?</strong>
+        <p>You can pay with us by debit card, credit card or cash. For business customers payment by invoice is possible after consultation.</p>
       </div>
     </div>
   </div>
@@ -107,7 +107,7 @@
       <h4>Company</h4>
       <ul>
         <li><a href="#">About Us</a></li>
-        <li><a href="#">Our Services</a></li>
+        <li><a href="Services.php">Our Services</a></li>
         <li><a href="#">Privacy Policy</a></li>
         <li><a href="#">Affiliate Program</a></li>
       </ul>
@@ -127,7 +127,6 @@
       <ul>
       <li><a href="index.php">Car Tuning</a></li>
         <li><a href="projects.php">Projects</a></li>
-        <li><a href="Services.php">Services</a></li>
         <li><a href="menu.php">Contact</a></li>
          <li><a href="shop.php">Insurance</a></li>
       </ul>

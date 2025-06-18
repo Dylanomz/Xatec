@@ -91,7 +91,7 @@
       <h4>Company</h4>
       <ul>
         <li><a href="#">About Us</a></li>
-        <li><a href="#">Our Services</a></li>
+        <li><a href="Services.php">Our Services</a></li>
         <li><a href="#">Privacy Policy</a></li>
         <li><a href="#">Affiliate Program</a></li>
       </ul>
@@ -111,7 +111,6 @@
       <ul>
    <li><a href="index.php">Car Tuning</a></li>
         <li><a href="projects.php">Projects</a></li>
-        <li><a href="Services.php">Services</a></li>
         <li><a href="menu.php">Contact</a></li>
          <li><a href="shop.php">Insurance</a></li>
       </ul>
