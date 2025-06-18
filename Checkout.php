@@ -131,7 +131,7 @@
       <li><a href="index.php">Car Tuning</a></li>
         <li><a href="projects.php">Projects</a></li>
         <li><a href="Services.php">Services</a></li>
-        <li><a href="menu.php">Menu</a></li>
+        <li><a href="menu.php">Contact</a></li>
          <li><a href="shop.php">Insurance</a></li>
       </ul>
     </div>

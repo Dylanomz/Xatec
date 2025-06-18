@@ -60,7 +60,7 @@
     ?>
 
 
-    <a href="menu.php" class="<?php print $class; ?>">Menu</a>
+    <a href="menu.php" class="<?php print $class; ?>">Contact</a>
 
 
     

@@ -102,7 +102,7 @@
     </div>
 
     <div class="cta">
-      <p>Klaar voor vakkundige service? <a href="mailto:info@autoservicenederland.nl">Neem direct contact met ons op</a> of <a href="/afspraak">maak online een afspraak</a> voor onderhoud of reparatie. Wij staan voor u klaar!</p>
+      <p>Klaar voor vakkundige service? <a href="menu.php">Neem direct contact met ons op</a> of <a href="/afspraak">maak online een afspraak</a> voor onderhoud of reparatie. Wij staan voor u klaar!</p>
     </div>
   </div>
 
@@ -141,7 +141,7 @@
      <li><a href="index.php">Car Tuning</a></li>
         <li><a href="projects.php">Projects</a></li>
         <li><a href="Services.php">Services</a></li>
-        <li><a href="menu.php">Menu</a></li>
+        <li><a href="menu.php">Contact</a></li>
          <li><a href="shop.php">Insurance</a></li>
       </ul>
     </div>
