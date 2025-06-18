@@ -22,25 +22,84 @@
   </div>
 </nav>
 
+<div class="container">
+    <h1>Get in touch</h1>
+    <p>Do you have any questions about our services, would you like to make an appointment or are you looking for advice? Please feel free to contact us. We are ready to help you quickly and professionally.</p>
 
-<br>
-<br>
-<br>
-  <div class="contact-container">
-    <h1>Contact Xatec</h1>
-    <form action="mailto:info@xatec.com" method="post" enctype="text/plain">
-      <label for="name">Naam</label>
-      <input type="text" id="name" name="name" placeholder="Jouw naam" required>
+    <div class="contact-info">
+      <h2>Our data</h2>
+      <address>
+        Xatec Netherlands<br />
+        Schoenerweg 65,<br />
+        6222 NX Maastricht<br />
+        Netherlands
+      </address>
+      <div><strong>Phone number:</strong> <a href="tel:+31201234567">+31 20 123 4567</a></div>
+      <div><strong>Email:</strong> <a href="mailto:info@autoservicenederland.nl">info@Xatecnederland.nl</a></div>
+      <div><strong>KvK number:</strong> 12345678</div>
+      <div><strong>BTW number:</strong> NL123456789B01</div>
+    </div>
 
-      <label for="email">E-mail</label>
-      <input type="email" id="email" name="email" placeholder="jij@example.com" required>
+    <div class="map-container">
+      <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2436.917631592649!2d5.689167415860914!3d50.85021597978737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c7a4cfcf5b4d0d%3A0x65d7c8bce19b6a6e!2sSchoenerweg%2065%2C%206222%20NX%20Maastricht!5e0!3m2!1snl!2snl!4v1697570000000!5m2!1snl!2snl" 
+        width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
 
-      <label for="message">Bericht</label>
-      <textarea id="message" name="message" rows="5" placeholder="Typ je bericht hier..." required></textarea>
+    <form id="contactForm" method="post" action="#">
+      <h2>Send a message</h2>
+      <label for="naam">Name *</label>
+      <input type="text" id="naam" name="naam" required placeholder="Uw naam" />
 
-      <button type="submit">Verzenden</button>
+      <label for="email">E-mail *</label>
+      <input type="email" id="email" name="email" required placeholder="voorbeeld@mail.com" />
+
+      <label for="telefoon">Phone number</label>
+      <input type="tel" id="telefoon" name="telefoon" placeholder="+31 6 12345678" />
+
+      <label for="onderwerp">subject *</label>
+      <input type="text" id="onderwerp" name="onderwerp" required placeholder="Waar gaat uw bericht over?" />
+
+      <label for="bericht">Message *</label>
+      <textarea id="bericht" name="bericht" required placeholder="Schrijf hier uw vraag of bericht"></textarea>
+
+      <button type="submit">Send message</button>
     </form>
+
+    <div class="faq-section">
+      <h2>Most asked questions</h2>
+
+      <div class="faq">
+        <strong>1. How do I make an appointment?</strong>
+        <p>You can contact us by phone, send an email or use our online appointment form</a>.</p>
+      </div>
+
+      <div class="faq">
+        <strong>2. Welke merken en modellen werken jullie mee?</strong>
+        <p>Wij werken met alle merken en modellen auto's, zowel jong als oud. Onze monteurs zijn breed opgeleid en beschikken over de nieuwste apparatuur.</p>
+      </div>
+
+      <div class="faq">
+        <strong>3. Hoe lang duurt een onderhoudsbeurt?</strong>
+        <p>Een kleine onderhoudsbeurt duurt meestal 1 tot 2 uur. Voor een grote onderhoudsbeurt of reparatie kan het langer duren. Wij informeren u altijd vooraf over de verwachte duur.</p>
+      </div>
+
+      <div class="faq">
+        <strong>4. Kan ik een leenauto krijgen tijdens reparatie?</strong>
+        <p>Ja, wij hebben een beperkt aantal leenauto's beschikbaar. Informeer bij het maken van uw afspraak naar de mogelijkheden.</p>
+      </div>
+
+      <div class="faq">
+        <strong>5. Wat zijn de betaalmogelijkheden?</strong>
+        <p>U kunt bij ons betalen met pin, creditcard, of contant. Voor zakelijke klanten is betaling op factuur mogelijk na overleg.</p>
+      </div>
+    </div>
   </div>
+
+
+
+
+
 
   <footer class="footer">
   <div class="footer-container">

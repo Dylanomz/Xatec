@@ -1,61 +1,87 @@
-* {
-  box-sizing: border-box;
-  font-family: 'Bruno Ace SC', sans-serif;
-}
-
-
-.contact-container {
-  background-color: #fff;
-  padding: 40px;
-  border-radius: 10px;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-  max-width: 500px;
-  width: 100%;
-  border-left: 6px solid red;
-}
-
-h1 {
-  text-align: center;
-  margin-bottom: 25px;
-  color: #333;
-}
-
-label {
-  display: block;
-  margin-top: 15px;
-  color: #444;
-  font-size: 15px;
-}
-
-input, textarea {
-  width: 100%;
-  padding: 10px;
-  margin-top: 5px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  font-size: 14px;
-  background-color: #fafafa;
-}
-
-input:focus, textarea:focus {
-  border-color: red;
-  outline: none;
-  box-shadow: 0 0 5px red;
-}
-
-button {
-  width: 100%;
-  padding: 12px;
-  margin-top: 20px;
-  background-color: red;
-  border: none;
-  color: white;
-  font-size: 16px;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background 0.3s;
-}
-
-button:hover {
-  background-color: darkred;
-}
+.container {
+      max-width: 900px;
+      margin: 40px auto;
+      background-color: #000000;
+      padding: 40px 30px;
+      box-shadow: 0 0 15px rgb(255, 0, 0);
+      border-radius: 8px;
+      font-family: 'bruno ace sc';
+    }
+    h1, h2 {
+      color: #a81313;
+      margin-bottom: 20px;
+    }
+    p {
+      margin-bottom: 15px;
+    }
+    address {
+      font-style: normal;
+      line-height: 1.5;
+      margin-bottom: 30px;
+    }
+    .contact-info {
+      margin-bottom: 40px;
+    }
+    .contact-info div {
+      margin-bottom: 10px;
+    }
+    form {
+      margin-bottom: 50px;
+    }
+    label {
+      display: block;
+      font-weight: bold;
+      margin-bottom: 8px;
+    }
+    input[type="text"],
+    input[type="email"],
+    input[type="tel"],
+    textarea {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 1rem;
+      resize: vertical;
+    }
+    textarea {
+      min-height: 120px;
+    }
+    button {
+      background-color: #a81313;
+      color: white;
+      padding: 14px 28px;
+      font-size: 1rem;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      font-family: 'bruno ace sc';
+    }
+    button:hover {
+      background-color: #a81313;
+    }
+    .map-container {
+      margin-bottom: 40px;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      height: 350px;
+    }
+    .faq-section {
+      margin-top: 50px;
+    }
+    .faq {
+      margin-bottom: 25px;
+    }
+    .faq strong {
+      display: block;
+      margin-bottom: 8px;
+      color: #a81313;
+    }
+    @media (max-width: 600px) {
+      .container {
+        padding: 25px 15px;
+      }
+    }
