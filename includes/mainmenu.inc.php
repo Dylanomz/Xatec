@@ -59,9 +59,12 @@
         }
     ?>
 
-    <a href="menu.php" class="<?php print $class; ?>">Menu</a>
-</div>
 
+    <a href="menu.php" class="<?php print $class; ?>">Menu</a>
+
+
+    
+</div>
 <button class="custom-button">
     +31 6 13535888  
 </button>

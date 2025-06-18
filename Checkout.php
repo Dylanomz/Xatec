@@ -9,12 +9,6 @@
   </head>
 <body>
 
-<nav>
-  <div class="navbar">
-      <img src="img/xatec_clear.png" alt="logo" class="logo">
-    <?php require_once("includes/mainmenu.inc.php"); ?>
-  </div>
-</nav>
 
 <div class="row">
   <div class="col-75">
