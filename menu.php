@@ -10,6 +10,7 @@
   <title>Menu</title>
 
   <link rel="stylesheet" href="furniture/style.css">
+  <link rel="stylesheet" href="furniture/menu.css">
    <link href="https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -21,34 +22,25 @@
   </div>
 </nav>
 
+
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+  <div class="contact-container">
+    <h1>Contact Xatec</h1>
+    <form action="mailto:info@xatec.com" method="post" enctype="text/plain">
+      <label for="name">Naam</label>
+      <input type="text" id="name" name="name" placeholder="Jouw naam" required>
+
+      <label for="email">E-mail</label>
+      <input type="email" id="email" name="email" placeholder="jij@example.com" required>
+
+      <label for="message">Bericht</label>
+      <textarea id="message" name="message" rows="5" placeholder="Typ je bericht hier..." required></textarea>
+
+      <button type="submit">Verzenden</button>
+    </form>
+  </div>
 
   <footer class="footer">
   <div class="footer-container">
