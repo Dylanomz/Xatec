@@ -1,18 +1,18 @@
 .row {
-  display: -ms-flexbox;   
+  display: -ms-flexbox; /* IE10 */
   display: flex;
-  -ms-flex-wrap: wrap;  
+  -ms-flex-wrap: wrap; /* IE10 */
   flex-wrap: wrap;
   margin: 0 -16px;
 }
 
-  .col-25 {
-  -ms-flex: 25%;  
+.col-25 {
+  -ms-flex: 25%; /* IE10 */
   flex: 25%;
 }
 
 .col-50 {
-  -ms-flex: 50%;  
+  -ms-flex: 50%; /* IE10 */
   flex: 50%;
 }
 
@@ -25,12 +25,13 @@
 .col-50,
 .col-75 {
   padding: 0 16px;
+
 }
 
 .container {
   background-color: #000000;
-  padding: 5px 20px 15px 20px;
-  border: 1px solid rgb(184, 25, 25);
+  padding: 5px 80px 15px 80px;
+  border: 1px solid rgb(122, 9, 9);
   border-radius: 3px;
 }
 
@@ -38,7 +39,7 @@ input[type=text] {
   width: 100%;
   margin-bottom: 20px;
   padding: 12px;
-  border: 1px solid #b91a1a;
+  border: 1px solid #ccc;
   border-radius: 3px;
 }
 
@@ -55,7 +56,7 @@ label {
 
 .btn {
   background-color: #000000;
-  color: rgb(180, 29, 29);
+  color: rgb(255, 4, 4);
   padding: 12px;
   margin: 10px 0;
   border: none;
@@ -66,8 +67,8 @@ label {
 }
 
 .btn:hover {
-  background-color: #b62411;
-  color: #000000;
+  background-color: #a81313;
+  color: black;
 }
 
 span.price {
@@ -82,4 +83,9 @@ span.price {
   .col-25 {
     margin-bottom: 20px;
   }
+}
+
+h1{
+  justify-content: center;
+  text-align: center;
 }
