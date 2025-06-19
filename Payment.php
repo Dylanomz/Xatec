@@ -12,53 +12,53 @@
     <body>
 
      <h1>Betaalmethoden in Nederland</h1>
-  <p class="description">Overzicht van populaire betaalopties voor webshops en fysieke winkels.</p>
 
   <div class="payment-grid">
     <div class="payment-card">
-      <img src="img/Ideal.png" alt="iDEAL">
+      <img src="img/Ideal.png" alt="iDEAL" style="width: 40px; height: auto;">
       <h3>iDEAL</h3>
       <p>Directe bankoverschrijving via Nederlandse banken. Meest gebruikt.</p>
     </div>
 
-    <div class="payment-card">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/PayPal_2014_logo.png" alt="PayPal">
-      <h3>PayPal</h3>
-      <p>Online betalingen via e-mailadres en account.</p>
-    </div>
 
     <div class="payment-card">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/MasterCard_Logo.svg" alt="Creditcards">
+  <img src="img/paypal.png" alt="PayPal" style="width: 50px; height: auto;">
+  <h3>PayPal</h3>
+  <p>Online betalingen via e-mailadres en account.</p>
+   </div>
+
+    <div class="payment-card">
+      <img src="img/Creditcard.png" alt="Creditcards" style="width: 55px; height: auto;">
       <h3>Creditcards</h3>
       <p>Visa, Mastercard, AmEx – wereldwijd geaccepteerd.</p>
     </div>
 
     <div class="payment-card">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bancontact_logo.svg" alt="Bancontact">
+      <img src="img/Bancontact.png" alt="Bancontact" style="width: 50px; height: auto;">
       <h3>Bancontact</h3>
       <p>Veel gebruikt in België, ook in NL geaccepteerd.</p>
     </div>
 
     <div class="payment-card">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Klarna_Logo.svg" alt="Klarna">
+      <img src="img/klarna.png" alt="Klarna" style="width: 58px; height: auto;">
       <h3>Klarna</h3>
       <p>Achteraf betalen – binnen 14 of 30 dagen.</p>
     </div>
 
     <div class="payment-card">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Apple_Pay_logo.svg" alt="Apple Pay">
+      <img src="img/apple.png" alt="Apple Pay" style="width: 35px; height: auto;">
       <h3>Apple Pay</h3>
       <p>Mobiele betalingen via iPhone of Apple Watch.</p>
     </div>
 
     <div class="payment-card">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Pay_Logo.svg" alt="Google Pay">
+      <img src="img/gpay.png" alt="Google Pay" style="width: 60px; height: auto;">
       <h3>Google Pay</h3>
       <p>Snelle mobiele betaling via Android met NFC.</p>
     </div>
 
     <div class="payment-card">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SEPA.svg" alt="SEPA">
+      <img src="img/Sepa.png" alt="SEPA" style="width: 60px; height: auto;">
       <h3>SEPA Overboeking</h3>
       <p>Europese bankoverschrijving – veilig maar niet direct.</p>
     </div>

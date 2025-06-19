@@ -28,7 +28,7 @@
 <div class="container">
     <div class="video-grid">
       <div class="video-container">
-        <video muted loop preload="metadata">
+        <video muted loop playsinline preload="auto">
           <source src="Videos/VolkswagenCaddy.mp4" type="video/mp4" />
           Je browser ondersteunt geen video.
         </video>
@@ -37,7 +37,7 @@
       </div>
 
       <div class="video-container">
-        <video muted loop preload="metadata">
+        <video muted loop playsinline preload="auto">
           <source src="Videos/VolkswagenCade.mp4" type="video/mp4" />
           Je browser ondersteunt geen video.
         </video>

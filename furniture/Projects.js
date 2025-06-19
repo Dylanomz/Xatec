@@ -1,15 +1,10 @@
 
-  const container = document.querySelector('.video-container');
-  const video = container.querySelector('video');
+  const videos = document.querySelectorAll('video');
 
-  container.addEventListener('mouseenter', () => {
-    video.play();
-  });
-
-  container.addEventListener('mouseleave', () => {
-    video.pause();
-    video.currentTime = 0; // Reset naar begin
-  });
+videos.forEach(video => {
+  video.addEventListener('mouseenter', () => video.play());
+  video.addEventListener('mouseleave', () => video.pause());
+});
   
 
 
