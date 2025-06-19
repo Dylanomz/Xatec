@@ -11,6 +11,24 @@
    <head>
     <body>
 
+    <button onclick="history.back()" style="
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    background-color: #a81313;
+    color: white;
+    border: none;
+    padding: 12px 22px;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    z-index: 999;
+    box-shadow: 0 0 15px rgb(255, 0, 0);
+  ">
+    ← Back
+  </button>
+
+
      <h1>Betaalmethoden in Nederland</h1>
 
   <div class="payment-grid">
