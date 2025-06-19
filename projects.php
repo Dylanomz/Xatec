@@ -56,11 +56,11 @@
 
       <div class="video-container">
         <video muted loop preload="metadata">
-          <source src="Videos/VolkswagenCaddy.mp4" type="video/mp4" />
+          <source src="Videos/bmw.mp4" type="video/mp4" />
           Je browser ondersteunt geen video.
         </video>
         <div class="overlay"></div>
-        <div class="title">Volkswagen T-roc R</div>
+        <div class="title">BMW F30</div>
       </div>
 
       <div class="video-container">
