@@ -93,7 +93,7 @@ Modifying the suspension with stiffer springs, shocks, or sway bars can improve 
       <ul>
         <li><a href="#">About Us</a></li>
         <li><a href="Services.php">Our Services</a></li>
-        <li><a href="#">Privacy Policy</a></li>
+        <li><a href="Privacy.php">Privacy Policy</a></li>
         <li><a href="#">Affiliate Program</a></li>
       </ul>
     </div>
