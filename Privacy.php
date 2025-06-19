@@ -12,13 +12,23 @@
 
 <body>
 
+<button onclick="history.back()" style="
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    background-color: #a81313;
+    color: white;
+    border: none;
+    padding: 12px 22px;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    z-index: 999;
+    box-shadow: 0 0 15px rgb(255, 0, 0);
+  ">
+    ← Back
+  </button>
 
-<nav>
-  <div class="navbar">
-      <img src="img/xatec_clear.png" alt="logo" class="logo">
-      <?php require_once("includes/mainmenu.inc.php"); ?>
-  </div>
-</nav>
 
   <div class="container">
     <h1>Privacyverklaring</h1>

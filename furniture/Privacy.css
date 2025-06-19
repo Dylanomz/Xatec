@@ -1,13 +1,14 @@
+
 .container {
       max-width: 900px;
       margin: 40px auto;
-      background-color: #fff;
+      background-color: #000000;
       padding: 40px 30px;
-      box-shadow: 0 0 15px rgba(0,0,0,0.05);
+      box-shadow: 0 0 15px rgb(255, 0, 0);
       border-radius: 8px;
     }
     h1, h2 {
-      color: #003366;
+      color: #a81313;
     }
     h2 {
       margin-top: 30px;
@@ -17,5 +18,5 @@
       list-style-type: disc;
     }
     a {
-      color: #003366;
+      color: #a81313;
     }
