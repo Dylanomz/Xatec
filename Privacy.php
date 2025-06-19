@@ -31,59 +31,69 @@
 
 
   <div class="container">
-    <h1>Privacyverklaring</h1>
-    <p>Bij AutoService Nederland nemen wij uw privacy serieus. In deze privacyverklaring leggen wij uit welke persoonsgegevens wij verzamelen, waarom wij dat doen en hoe wij hiermee omgaan. Deze verklaring is van toepassing op alle diensten en pagina's van onze website.</p>
+    <h1>Privacy Statement</h1>
+    <p>At AutoService Nederland we take your privacy seriously. In this privacy statement we explain which personal data we collect,
+       why we do this and how we handle it. This statement applies to all services and pages of our website.</p>
 
-    <h2>1. Wie zijn wij?</h2>
-    <p>AutoService Nederland<br />
+    <h2>1. Who are we?</h2>
+    <p>AutoService Netherlands<br />
     Schoenerweg 65<br />
     6222 NX Maastricht<br />
     KvK: 12345678<br />
     E-mail: <a href="mailto:info@Xatecnederland.nl">info@xatecnederland.nl</a></p>
 
-    <h2>2. Welke gegevens verzamelen wij?</h2>
-    <p>Wij verzamelen en verwerken alleen persoonsgegevens die u zelf aan ons verstrekt via bijvoorbeeld het contactformulier of wanneer u een afspraak maakt. Het gaat om de volgende gegevens:</p>
+    <h2>2. What information do we collect?</h2>
+    <p>We only collect and process personal data that you provide to us yourself, for example via the contact form or when you make an appointment.
+    This concerns the following data:</p>
     <ul>
-      <li>Naam</li>
-      <li>E-mailadres</li>
-      <li>Telefoonnummer</li>
-      <li>IP-adres (bij gebruik van onze website)</li>
-      <li>Overige informatie die u vrijwillig verstrekt</li>
+      <li>Name</li>
+      <li>Email address</li>
+      <li>Phone number</li>
+      <li>IP address (when using our website)</li>
+      <li>Other information you provide voluntarily</li>
     </ul>
 
-    <h2>3. Waarom verzamelen wij deze gegevens?</h2>
-    <p>Wij gebruiken uw gegevens uitsluitend voor de volgende doeleinden:</p>
+    <h2>3. Why do we collect this data?</h2>
+    <p>We use your data exclusively for the following purposes:</p>
     <ul>
-      <li>Om contact met u op te nemen over uw vraag of afspraak</li>
-      <li>Om onze diensten te kunnen leveren</li>
-      <li>Om onze website te verbeteren en gebruiksvriendelijker te maken</li>
-      <li>Voor administratieve doeleinden en wettelijke verplichtingen</li>
+      <li>To contact you about your question or appointment</li>
+      <li>To provide our services</li>
+      <li>To improve our website and make it more user-friendly</li>
+      <li>For administrative purposes and legal obligations</li>
     </ul>
 
-    <h2>4. Delen wij uw gegevens met derden?</h2>
-    <p>Wij delen uw gegevens niet met derden, tenzij dit noodzakelijk is voor de uitvoering van onze diensten (bijv. hosting of boekhouding), of wanneer dit wettelijk verplicht is. Wij sluiten met alle externe verwerkers verwerkersovereenkomsten conform de AVG.</p>
+    <h2>4. Do we share your data with third parties??</h2>
+    <p>We do not share your data with third parties, unless this is necessary for the execution of our services (e.g. hosting or accounting),
+       or when this is legally required. We conclude processor agreements with all external processors in accordance with the GDPR.</p>
 
     <h2>5. Cookies</h2>
-    <p>Onze website maakt alleen gebruik van functionele en analytische cookies om de werking van de website te verbeteren. Indien wij gebruik maken van Google Analytics, gebeurt dit volledig geanonimiseerd en zonder dat gegevens worden gedeeld met Google.</p>
+    <p>Our website only uses functional and analytical cookies to improve the functioning of the website.
+    If we use Google Analytics, this is done completely anonymously and without data being shared with Google.</p>
 
-    <h2>6. Beveiliging van gegevens</h2>
-    <p>Wij nemen passende beveiligingsmaatregelen om misbruik, verlies, onbevoegde toegang en ongewenste openbaarmaking tegen te gaan. Onze website is beveiligd met een SSL-certificaat en onze systemen zijn up-to-date.</p>
+    <h2>6. Data security</h2>
+    <p>We take appropriate security measures to prevent misuse, loss, unauthorized access and unwanted disclosure.
+    Our website is secured with an SSL certificate and our systems are up-to-date.</p>
 
-    <h2>7. Uw rechten</h2>
-    <p>U heeft het recht om uw persoonsgegevens in te zien, te laten corrigeren, over te dragen of te laten verwijderen. Ook kunt u bezwaar maken tegen de verwerking of uw toestemming intrekken. Neem hiervoor contact met ons op via <a href="mailto:info@autoservicenederland.nl">info@autoservicenederland.nl</a>.</p>
+    <h2>7. Your rights</h2>
+    <p>You have the right to view, correct, transfer or delete your personal data.
+    You can also object to the processing or withdraw your consent. To do so, please contact us via 
+    <a href="mailto:info@autoservicenederland.nl">info@autoservicenederland.nl</a>.</p>
 
-    <h2>8. Bewaartermijn</h2>
-    <p>Wij bewaren uw persoonsgegevens niet langer dan noodzakelijk is voor het doel waarvoor wij ze hebben ontvangen, tenzij wij wettelijk verplicht zijn bepaalde gegevens langer te bewaren (bijvoorbeeld voor de belastingdienst).</p>
+    <h2>8. Retention period</h2>
+    <p>We do not store your personal data for longer than is necessary for the purpose for which we received it,
+     unless we are legally obliged to store certain data for longer (for example for the tax authorities).</p>
 
-    <h2>9. Wijzigingen</h2>
-    <p>Wij behouden ons het recht voor deze privacyverklaring aan te passen. De meest actuele versie is altijd beschikbaar op onze website. Laatste update: 19 juni 2025.</p>
+    <h2>9. Changes</h2>
+    <p>We reserve the right to amend this privacy statement.
+      The most current version is always available on our website. Last update: June 19, 2025.</p>
 
     <h2>10. Contact</h2>
-    <p>Heeft u vragen over deze privacyverklaring of over de manier waarop wij omgaan met uw gegevens? Neem dan gerust contact met ons op:</p>
+    <p>Do you have any questions about this privacy statement or about the way we handle your data?
+      Please feel free to contact us:</p>
     <p>
-      AutoService Nederland<br />
+      AutoService Netherlands<br />
       Schoenerweg 65, 6222 NX Maastricht<br />
-      Telefoon: <a href="tel:+31201234567">+31 20 123 4567</a><br />
+      Telephone: <a href="tel:+31201234567">+31 6 20 23 45 67</a><br />
       E-mail: <a href="mailto:info@autoservicenederland.nl">info@autoservicenederland.nl</a>
     </p>
   </div>
