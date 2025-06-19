@@ -121,6 +121,9 @@ Modifying the suspension with stiffer springs, shocks, or sway bars can improve 
   <div class="social-links">
     <a href="https://www.instagram.com/xatec.official/" target="_blank" rel="noopener">
       <img src="img/Instagram.png" alt="Instagram" style="width: 40px; height: auto;">
+      <a href="https://www.tiktok.com/@xatec.official" target="_blank" rel="noopener">
+      <img src="img/Tiktok.png" alt="Instagram" style="width: 40px; height: auto;">
+      
     </a>
   </div>
 </div>
